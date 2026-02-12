@@ -6,16 +6,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-  <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=santimartinezzgb&theme=tokyonight&hide_border=false" />
-</div>
-
----
-
 ### Socials & Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/santiago-martínez-gonzález-besada-bb6467335/">
