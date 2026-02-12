@@ -1,7 +1,7 @@
-# # Santi Martínez | Full Stack Developer
+# Santi Martínez | Full Stack Developer
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,spring,react,electron,notion,github,bash,docker,aws,linux&perline=13" alt="My Skills" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,spring,react,electron,notion,github,bash,docker,aws,linux" alt="My Skills" />
 </p>
 
 ---
@@ -9,9 +9,10 @@
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170" />
-  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <br/><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=santimartinezzgb&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
 </div>
 
