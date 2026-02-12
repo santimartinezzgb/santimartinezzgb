@@ -6,19 +6,17 @@
 
 ---
 
-### 📊 GitHub Analytics
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" />
   <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
   <br/><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=santimartinezzgb&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=santimartinezzgb&theme=tokyonight&hide_border=false" />
 </div>
 
 ---
 
-### 🌐 Socials & Connect
+### Socials & Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/santiago-martínez-gonzález-besada-bb6467335/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
