@@ -4,9 +4,7 @@
   <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,spring,react,electron,notion,github,bash,docker,aws,linux" alt="My Skills" />
 </p>
 
----
 
-### Socials & Connect
 <p align="left">
   <a href="https://www.linkedin.com/in/santiago-martínez-gonzález-besada-bb6467335/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -16,6 +14,3 @@
   </a>
 </p>
 
-<p align="right">
-  <img src="https://visitcount.itsvg.in/api?id=santimartinezzgb&icon=0&color=0" alt="Visit Count" />
-</p>
