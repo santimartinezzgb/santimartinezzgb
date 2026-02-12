@@ -32,17 +32,16 @@
 
 ###
 
-![](https://github-readme-stats.vercel.app/api?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=santimartinezzgb&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<div align="center">
+  ![](https://github-readme-stats.vercel.app/api?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=santimartinezzgb&theme=tokyonight&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=santimartinezzgb&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-mart%C3%ADnez-gonz%C3%A1lez-besada-bb6467335/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santimartinezgb@gmail.com) 
 
----
 [![](https://visitcount.itsvg.in/api?id=santimartinezzgb&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
