@@ -1,49 +1,32 @@
-# Santi Martínez | Full Stack Developer
+# # Santi Martínez | Full Stack Developer
 
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,nodejs,spring,react,electron,notion,github,bash,docker,aws,linux&perline=13" alt="My Skills" />
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=electron" height="60" alt="electron logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="60" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bash" height="60" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="60" alt="linux logo"  />
-</div>
+---
 
-###
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" height="170" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=santimartinezzgb&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santimartinezzgb&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
+---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/santiago-mart%C3%ADnez-gonz%C3%A1lez-besada-bb6467335/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santimartinezgb@gmail.com) 
+### 🌐 Socials & Connect
+<p align="left">
+  <a href="https://www.linkedin.com/in/santiago-martínez-gonzález-besada-bb6467335/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> 
+  <a href="mailto:santimartinezgb@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=santimartinezzgb&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="right">
+  <img src="https://visitcount.itsvg.in/api?id=santimartinezzgb&icon=0&color=0" alt="Visit Count" />
+</p>
